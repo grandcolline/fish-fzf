@@ -10,9 +10,7 @@ $ fisher grandcolline/fish-fzf
 ```
 ## setting
 
-For example...
-
-fconfig.fish
+config.fish
 ```
 function fish_user_key_bindings
 	bind \cr '__fzf_history'
